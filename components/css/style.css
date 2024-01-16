@@ -850,7 +850,7 @@ letter-spacing: 1px;
 @media(max-width:384px){
 h1.error {
     font-size: 24px;
-}
+}   
 .img-right-side, .txt-left-side {
     padding: 1.5em 1.5em 1.4em;
 }	
